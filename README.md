@@ -1,4 +1,6 @@
-# kang_event
+# kang_event by BuildWith Angga
+
+Learn flutter easy and up to date in buildwithangga.com
 
 A new Flutter project.
 
